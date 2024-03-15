@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weronikacyprian
 - 👀 I’m interested in machine learning, AI and social sciences
-- 🌱 I’m currently learning Python, R and SQL 
+- 🌱 I’m currently learning Python, SQL and R
 - 📫 How to reach me: weronikacyprian@icloud.com
 - 😄 Pronouns: she/her
 
